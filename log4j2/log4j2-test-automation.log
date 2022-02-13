@@ -1,0 +1,22 @@
+[INFO ] 2022-02-11 17:53:32.143 [main] Log - I am in onStart method Selenium-TestNG
+[INFO ] 2022-02-11 17:53:38.702 [main] Log - test_googleSearch test is starting.
+[INFO ] 2022-02-11 17:53:38.703 [main] Log - test_googleSearch test is failed.
+[INFO ] 2022-02-11 17:53:38.973 [main] Log - test_googleSearch test is failed.
+[INFO ] 2022-02-11 17:53:43.807 [main] Log - I am in onFinish method Selenium-TestNG
+[INFO ] 2022-02-11 17:54:20.245 [main] Log - I am in onStart method Selenium-TestNG
+[INFO ] 2022-02-11 17:54:25.255 [main] Log - test_googleSearch test is starting.
+[INFO ] 2022-02-11 17:54:25.257 [main] Log - test_googleSearch test is failed.
+[INFO ] 2022-02-11 17:54:25.508 [main] Log - test_googleSearch test is failed.
+[INFO ] 2022-02-11 17:54:30.334 [main] Log - I am in onFinish method Selenium-TestNG
+[INFO ] 2022-02-11 18:25:53.281 [main] Log - I am in onStart method Selenium-TestNG
+[INFO ] 2022-02-11 18:26:04.779 [main] Log - test_googleSearch test is starting.
+[INFO ] 2022-02-11 18:26:04.929 [main] Log - test_googleSearch test is failed.
+[INFO ] 2022-02-11 18:26:09.782 [main] Log - I am in onFinish method Selenium-TestNG
+[INFO ] 2022-02-11 18:29:35.364 [main] Log - I am in onStart method Selenium-TestNG
+[INFO ] 2022-02-11 18:29:41.591 [main] Log - test_googleSearch test is starting.
+[INFO ] 2022-02-11 18:29:41.729 [main] Log - test_googleSearch test is failed.
+[INFO ] 2022-02-11 18:29:46.572 [main] Log - I am in onFinish method Selenium-TestNG
+[INFO ] 2022-02-11 18:30:55.397 [main] Log - I am in onStart method Selenium-TestNG
+[INFO ] 2022-02-11 18:31:00.166 [main] Log - test_googleSearch test is starting.
+[INFO ] 2022-02-11 18:31:06.295 [main] Log - test_googleSearch test is succeed.
+[INFO ] 2022-02-11 18:31:06.930 [main] Log - I am in onFinish method Selenium-TestNG
