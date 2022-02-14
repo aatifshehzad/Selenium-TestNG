@@ -7,8 +7,8 @@ Pre-Requisites:
 
 Clone Repository:
 
-  git clone https://github.com/aatifshehzad/Selenium-TestNG.git
+      git clone https://github.com/aatifshehzad/Selenium-TestNG.git
 
 Download Dependencies:
 
-  Install dependencies using pom.xml
+      Install dependencies using pom.xml
